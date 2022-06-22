@@ -72,13 +72,30 @@ When you first arrize at the Lux Solis campus, the tables below are the difficul
 
 You also need to choose "Yes I Have", and "Expedited Course" after setting all these rules when the front desk asks.
 
-## Challenge Rules 
+## Challenge Rules (Version 0.5)
 
 The rules detailed below are required to complete the challenge.  You must follow them in order for us to consider your challenge "valid".  If you have any questions, need clarification, or suggestions, please feel free to message Auto on Discord or Twitter, or Tororo on Discord.  
 
 | Rule | Description |
 | ------------- | ------------- |
 | One Coromon Only | You are only allowed to use one Coromon at a time.  If you want to swap a Coromon at any point in the run, you need only catch a new one; however once you catch a new one, you are committing to the new one. Once you catch a new Mon, you must deposit all other Mons you are not using into the PC  |
-| Dark Coromon Banned | You are not allowed to catch or start with a Dark Coromon. - If your slot for starters is a Dark Coromon, you are allowed to choose any other option. - If all the starters are Dark Coromon, reset the run immediately
-**If your Mon evolves into a Dark Coromon, this is allowed!** |
+| Dark Coromon Banned | You are not allowed to catch or start with a Dark Coromon. If your slot for starters is a Dark Coromon, you are allowed to choose any other option. If all the starters are Dark Coromon, reset the run immediately. **If your Mon evolves into a Dark Coromon, this is allowed!** |
+| Starting Coromon | At the beginning of the game, you are provided two mons: a “starter” mon, and the one given by the researcher after picking your starter.  You may use either Mon, but whichever Mon you choose, the other must be deposited to the PC as soon as possible |
+| Permadeath | Once your Coromon goes down, you lose the run.  If a puzzle challenge is failed, this does not end the run. |
+| No defeating wild Coromon | You cannot fight a wild Coromon unless you intend to catch it. You can only catch one Mon per full area (swamp has three areas, you can only catch one Mon for all three areas) |
+| Accidental Wild Coromon Defeat | If you accidentally Defeat a Coromon while trying to scout/catch a new Mon, you don’t have to reset, but you need to find a new Mon to use in the same area before leaving |
+| Dungeons | You must complete all dungeons in a single run, specifically anything you have to go through for a story progression reason, titan locations.  Dungeons include: **Thunderous Cave, Power Tower, Monastery of Illuginn, The Palace of Darudic, Pyramid of Sart, Vermeer Grotto, Mount Muspel, Frozen Cavern.** Once you complete a Dungeon, you are not allowed to return to it at any point in the run. You are not allowed to use any free healing in dungeons.  For example, you can’t heal from the palace guard in the dungeon jail |
+| No hp/sp healing moves | If the move can heal your HP, then you cannot use it.  This includes drain, moonlight, super drain, etc.  You cannot use sp healing moves as well (Energy Drain, Super Energy Drain) |
+| Banned items outside of battle | Banned Items are: **Anything in the cakes tab, Skill flashes, Xp chips** |
+| Banned traits | Banned traits are: **Tactical Retreat, Clean Retreat, Fearless.**  If your Mon has this ability, you cannot choose it as a starter, and if your Mon evolves into one with the banned ability, you must pivot to a new Mon immediately.  | 
+| Held Item Restrictions | Your Coromon can only hold consumable items, you cannot hold items such as Revitalizer, Energizer Gem, etc.  In addition, Ber Fruit is banned. |
+| Shopping | You can only buy Spinners and Stinky Scents from shops |
+| Milestones can’t be claimed | You are not allowed to claim items from milestones | 
+| No planting berries | You can’t be a gardener… |
+| Moveset Editing | You are not allowed to edit your moveset unless either of the following applies: **You are at a healing center, You learn a new move in battle, in which case you are allowed to edit your moveset to add that move, but you cannot make any other changes to your moveset** |
+| Beezel Farm Quest | You are allowed to fight the “Beezels” in the farm town early in the game as a part of the side quest |
+| Potentiflator, Traitformator, and Resetinators | You are not allowed to use these features in the game during the run |
 
+## Version Update Notes
+
+Nothing to see here...
