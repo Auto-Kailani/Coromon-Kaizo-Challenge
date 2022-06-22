@@ -71,3 +71,16 @@ When you first arrize at the Lux Solis campus, the tables below are the difficul
 | Randomize wild encounters  | Every area |
 
 You also need to choose "Yes I Have", and "Expedited Course" after setting all these rules when the front desk asks.
+
+## Challenge Rules 
+
+The rules detailed below are required to complete the challenge.  You must follow them in order for us to consider your challenge "valid".  If you have any questions, need clarification, or suggestions, please feel free to message Auto on Discord or Twitter, or Tororo on Discord.  
+
+| Rule | Description |
+| ------------- | ------------- |
+| One Coromon Only | You are only allowed to use one Coromon at a time.  If you want to swap a Coromon at any point in the run, you need only catch a new one; however once you catch a new one, you are committing to the new one. Once you catch a new Mon, you must deposit all other Mons you are not using into the PC  |
+| Dark Coromon Banned | You are not allowed to catch or start with a Dark Coromon
+If your slot for starters is a Dark Coromon, you are allowed to choose any other option
+If all the starters are Dark Coromon, reset the run immediately
+**If your Mon evolves into a Dark Coromon, this is allowed!** |
+
