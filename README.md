@@ -95,7 +95,6 @@ The rules detailed below are required to complete the challenge.  You must follo
 | Moveset Editing | You are not allowed to edit your moveset unless either of the following applies: **You are at a healing center, You learn a new move in battle, in which case you are allowed to edit your moveset to add that move, but you cannot make any other changes to your moveset** |
 | Beezel Farm Quest | You are allowed to fight the “Beezels” in the farm town early in the game as a part of the side quest |
 | Potentiflator, Traitformator, and Resetinators | You are not allowed to use these features in the game during the run |
-| Kuru smells | He really does |
 
 ## Version Update Notes
 
