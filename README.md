@@ -79,7 +79,7 @@ The rules detailed below are required to complete the challenge.  You must follo
 | Rule | Description |
 | ------------- | ------------- |
 | One Coromon Only | You are only allowed to use one Coromon at a time.  If you want to swap a Coromon at any point in the run, you need only catch a new one; however once you catch a new one, you are committing to the new one. Once you catch a new Mon, you must deposit all other Mons you are not using into the PC  |
-| Dark Coromon Banned | You are not allowed to catch or start with a Dark Coromon. If your slot for starters is a Dark Coromon, you are allowed to choose any other option. If all the starters are Dark Coromon, reset the run immediately. <br> **If your Mon evolves into a Dark Coromon, this is allowed!** |
+| Dark Coromon Banned | You are not allowed to catch or start with a Dark Coromon. If your slot for starters is a Dark Coromon, you are allowed to choose any other option. If all the starters are Dark Coromon, reset the run immediately. <br><br> **If your Mon evolves into a Dark Coromon, this is allowed!** |
 | Starting Coromon | At the beginning of the game, you are provided two mons: a “starter” mon, and the one given by the researcher after picking your starter.  You may use either Mon, but whichever Mon you choose, the other must be deposited to the PC as soon as possible |
 | Permadeath | Once your Coromon goes down, you lose the run.  If a puzzle challenge is failed, this does not end the run. |
 | No defeating wild Coromon | You cannot fight a wild Coromon unless you intend to catch it. You can only catch one Mon per full area (swamp has three areas, you can only catch one Mon for all three areas) |
